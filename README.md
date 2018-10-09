@@ -1,6 +1,6 @@
 # FacebookLogin-App
 ### Login with Facebook SDK
-<a href="https://imgflip.com/gif/2jpa2y"><img src="https://i.imgflip.com/2jpa2y.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/2jpabf"><img src="https://i.imgflip.com/2jpabf.gif" title="made at imgflip.com"/></a>
 
 ### Make a graph API request to get profile information and display user name and profile picture
 
